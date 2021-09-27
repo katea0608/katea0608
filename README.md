@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @katea0608
-- 👀 I’m interested in learning about collaberation in comp sci!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Beginner Projects
+- 👀 I’m interested in collaberation within comp sci!
+- 🌱 I’m currently learning C
 - 📫 How to reach me katemakenzie@usf.edu
 
 <!---
